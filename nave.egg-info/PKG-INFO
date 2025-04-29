@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: nave
+Version: 0.1
+Requires-Python: >=3.8
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: torch>=1.12.0
+Requires-Dist: sounddevice>=0.4.0
+Requires-Dist: soundfile>=0.12.0
+Requires-Dist: matplotlib>=3.5.0
+Requires-Dist: librosa>=0.8.0
+Requires-Dist: scipy>=1.7.0
+Requires-Dist: imageio>=2.10.0
+Requires-Dist: imageio[ffmpeg]>=2.10.0

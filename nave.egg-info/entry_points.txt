@@ -1,0 +1,2 @@
+[console_scripts]
+nave-gui = nave.__main__:main

@@ -1,0 +1,17 @@
+setup.py
+nave/__init__.py
+nave/__main__.py
+nave/control.py
+nave/gui.py
+nave/model.py
+nave/noise_estimator.py
+nave/stream_processor.py
+nave/utils.py
+nave.egg-info/PKG-INFO
+nave.egg-info/SOURCES.txt
+nave.egg-info/dependency_links.txt
+nave.egg-info/entry_points.txt
+nave.egg-info/requires.txt
+nave.egg-info/top_level.txt
+tests/__init__.py
+tests/test_enhancement.py
